@@ -1,7 +1,0 @@
-<list id="workflow_keephistory">
-  <value>ALWAYS</value>
-  <value>NEVER</value>
-  <value>ONLYWHENTESTING</value>
-  <value>T</value>
-  <value>F</value>
-</list>
